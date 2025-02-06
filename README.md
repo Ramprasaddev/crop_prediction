@@ -49,16 +49,13 @@ The dataset contains the following parameters:
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/username/crop_and_fertilizer_recommendation_using_ml.git
+    git clone https://github.com/Ramprasaddev/crop_prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd crop_and_fertilizer_recommendation_using_ml
+    cd crop_prediction
     ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 1. Prepare your dataset and place it in the `data` folder.
